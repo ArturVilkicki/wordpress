@@ -1,0 +1,86 @@
+2019-04-29T16:36:25+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function custom_product_list_column_content(), 1 passed in /home/lenovo/projektai/wordpress/wp-includes/class-wp-hook.php on line 286 and exactly 2 expected in /home/lenovo/projektai/wordpress/wp-content/plugins/programita-examplee/programita-examplee.php:36
+Stack trace:
+#0 /home/lenovo/projektai/wordpress/wp-includes/class-wp-hook.php(286): custom_product_list_column_content(Array)
+#1 /home/lenovo/projektai/wordpress/wp-includes/plugin.php(208): WP_Hook->apply_filters(Array, Array)
+#2 /home/lenovo/projektai/wordpress/wp-admin/includes/screen.php(40): apply_filters('manage_edit-pro...', Array)
+#3 /home/lenovo/projektai/wordpress/wp-admin/includes/class-wp-screen.php(943): get_column_headers(Object(WP_Screen))
+#4 /home/lenovo/projektai/wordpress/wp-admin/includes/class-wp-screen.php(904): WP_Screen->show_screen_options()
+#5 /home/lenovo/projektai/wordpress/wp-admin/admin-header.php(254): WP_Screen->render_screen_meta()
+#6 /home/lenovo/projektai/wordpress/wp-adm in /home/lenovo/projektai/wordpress/wp-content/plugins/programita-examplee/programita-examplee.php on line 36
+
+2019-04-29T16:36:29+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function custom_product_list_column_content(), 1 passed in /home/lenovo/projektai/wordpress/wp-includes/class-wp-hook.php on line 286 and exactly 2 expected in /home/lenovo/projektai/wordpress/wp-content/plugins/programita-examplee/programita-examplee.php:36
+Stack trace:
+#0 /home/lenovo/projektai/wordpress/wp-includes/class-wp-hook.php(286): custom_product_list_column_content(Array)
+#1 /home/lenovo/projektai/wordpress/wp-includes/plugin.php(208): WP_Hook->apply_filters(Array, Array)
+#2 /home/lenovo/projektai/wordpress/wp-admin/includes/screen.php(40): apply_filters('manage_edit-pro...', Array)
+#3 /home/lenovo/projektai/wordpress/wp-admin/includes/class-wp-screen.php(943): get_column_headers(Object(WP_Screen))
+#4 /home/lenovo/projektai/wordpress/wp-admin/includes/class-wp-screen.php(904): WP_Screen->show_screen_options()
+#5 /home/lenovo/projektai/wordpress/wp-admin/admin-header.php(254): WP_Screen->render_screen_meta()
+#6 /home/lenovo/projektai/wordpress/wp-adm in /home/lenovo/projektai/wordpress/wp-content/plugins/programita-examplee/programita-examplee.php on line 36
+
+2019-04-29T16:36:30+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function custom_product_list_column_content(), 1 passed in /home/lenovo/projektai/wordpress/wp-includes/class-wp-hook.php on line 286 and exactly 2 expected in /home/lenovo/projektai/wordpress/wp-content/plugins/programita-examplee/programita-examplee.php:36
+Stack trace:
+#0 /home/lenovo/projektai/wordpress/wp-includes/class-wp-hook.php(286): custom_product_list_column_content(Array)
+#1 /home/lenovo/projektai/wordpress/wp-includes/plugin.php(208): WP_Hook->apply_filters(Array, Array)
+#2 /home/lenovo/projektai/wordpress/wp-admin/includes/screen.php(40): apply_filters('manage_edit-pro...', Array)
+#3 /home/lenovo/projektai/wordpress/wp-admin/includes/class-wp-screen.php(943): get_column_headers(Object(WP_Screen))
+#4 /home/lenovo/projektai/wordpress/wp-admin/includes/class-wp-screen.php(904): WP_Screen->show_screen_options()
+#5 /home/lenovo/projektai/wordpress/wp-admin/admin-header.php(254): WP_Screen->render_screen_meta()
+#6 /home/lenovo/projektai/wordpress/wp-adm in /home/lenovo/projektai/wordpress/wp-content/plugins/programita-examplee/programita-examplee.php on line 36
+
+2019-04-29T16:36:44+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function custom_product_list_column_content(), 1 passed in /home/lenovo/projektai/wordpress/wp-includes/class-wp-hook.php on line 286 and exactly 2 expected in /home/lenovo/projektai/wordpress/wp-content/plugins/programita-examplee/programita-examplee.php:36
+Stack trace:
+#0 /home/lenovo/projektai/wordpress/wp-includes/class-wp-hook.php(286): custom_product_list_column_content(Array)
+#1 /home/lenovo/projektai/wordpress/wp-includes/plugin.php(208): WP_Hook->apply_filters(Array, Array)
+#2 /home/lenovo/projektai/wordpress/wp-admin/includes/screen.php(40): apply_filters('manage_edit-pro...', Array)
+#3 /home/lenovo/projektai/wordpress/wp-admin/includes/class-wp-screen.php(943): get_column_headers(Object(WP_Screen))
+#4 /home/lenovo/projektai/wordpress/wp-admin/includes/class-wp-screen.php(904): WP_Screen->show_screen_options()
+#5 /home/lenovo/projektai/wordpress/wp-admin/admin-header.php(254): WP_Screen->render_screen_meta()
+#6 /home/lenovo/projektai/wordpress/wp-adm in /home/lenovo/projektai/wordpress/wp-content/plugins/programita-examplee/programita-examplee.php on line 36
+
+2019-04-29T16:36:47+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function custom_product_list_column_content(), 1 passed in /home/lenovo/projektai/wordpress/wp-includes/class-wp-hook.php on line 286 and exactly 2 expected in /home/lenovo/projektai/wordpress/wp-content/plugins/programita-examplee/programita-examplee.php:36
+Stack trace:
+#0 /home/lenovo/projektai/wordpress/wp-includes/class-wp-hook.php(286): custom_product_list_column_content(Array)
+#1 /home/lenovo/projektai/wordpress/wp-includes/plugin.php(208): WP_Hook->apply_filters(Array, Array)
+#2 /home/lenovo/projektai/wordpress/wp-admin/includes/screen.php(40): apply_filters('manage_edit-pro...', Array)
+#3 /home/lenovo/projektai/wordpress/wp-admin/includes/class-wp-screen.php(943): get_column_headers(Object(WP_Screen))
+#4 /home/lenovo/projektai/wordpress/wp-admin/includes/class-wp-screen.php(904): WP_Screen->show_screen_options()
+#5 /home/lenovo/projektai/wordpress/wp-admin/admin-header.php(254): WP_Screen->render_screen_meta()
+#6 /home/lenovo/projektai/wordpress/wp-adm in /home/lenovo/projektai/wordpress/wp-content/plugins/programita-examplee/programita-examplee.php on line 36
+
+2019-04-29T16:40:55+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function custom_product_list_column_content(), 1 passed in /home/lenovo/projektai/wordpress/wp-includes/class-wp-hook.php on line 288 and exactly 2 expected in /home/lenovo/projektai/wordpress/wp-content/plugins/programita-examplee/programita-examplee.php:36
+Stack trace:
+#0 /home/lenovo/projektai/wordpress/wp-includes/class-wp-hook.php(288): custom_product_list_column_content('thumb')
+#1 /home/lenovo/projektai/wordpress/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#2 /home/lenovo/projektai/wordpress/wp-includes/plugin.php(465): WP_Hook->do_action(Array)
+#3 /home/lenovo/projektai/wordpress/wp-admin/includes/class-wp-posts-list-table.php(1193): do_action('manage_product_...', 'thumb', 108)
+#4 /home/lenovo/projektai/wordpress/wp-admin/includes/class-wp-list-table.php(1332): WP_Posts_List_Table->column_default(Object(WP_Post), 'thumb')
+#5 /home/lenovo/projektai/wordpress/wp-admin/includes/class-wp-posts-list-table.php(1226): WP_List_Tabl in /home/lenovo/projektai/wordpress/wp-content/plugins/programita-examplee/programita-examplee.php on line 36
+
+2019-04-29T16:41:07+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function custom_product_list_column_content(), 1 passed in /home/lenovo/projektai/wordpress/wp-includes/class-wp-hook.php on line 288 and exactly 2 expected in /home/lenovo/projektai/wordpress/wp-content/plugins/programita-examplee/programita-examplee.php:36
+Stack trace:
+#0 /home/lenovo/projektai/wordpress/wp-includes/class-wp-hook.php(288): custom_product_list_column_content('thumb')
+#1 /home/lenovo/projektai/wordpress/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#2 /home/lenovo/projektai/wordpress/wp-includes/plugin.php(465): WP_Hook->do_action(Array)
+#3 /home/lenovo/projektai/wordpress/wp-admin/includes/class-wp-posts-list-table.php(1193): do_action('manage_product_...', 'thumb', 108)
+#4 /home/lenovo/projektai/wordpress/wp-admin/includes/class-wp-list-table.php(1332): WP_Posts_List_Table->column_default(Object(WP_Post), 'thumb')
+#5 /home/lenovo/projektai/wordpress/wp-admin/includes/class-wp-posts-list-table.php(1226): WP_List_Tabl in /home/lenovo/projektai/wordpress/wp-content/plugins/programita-examplee/programita-examplee.php on line 36
+
+2019-04-29T16:41:08+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function custom_product_list_column_content(), 1 passed in /home/lenovo/projektai/wordpress/wp-includes/class-wp-hook.php on line 288 and exactly 2 expected in /home/lenovo/projektai/wordpress/wp-content/plugins/programita-examplee/programita-examplee.php:36
+Stack trace:
+#0 /home/lenovo/projektai/wordpress/wp-includes/class-wp-hook.php(288): custom_product_list_column_content('thumb')
+#1 /home/lenovo/projektai/wordpress/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#2 /home/lenovo/projektai/wordpress/wp-includes/plugin.php(465): WP_Hook->do_action(Array)
+#3 /home/lenovo/projektai/wordpress/wp-admin/includes/class-wp-posts-list-table.php(1193): do_action('manage_product_...', 'thumb', 108)
+#4 /home/lenovo/projektai/wordpress/wp-admin/includes/class-wp-list-table.php(1332): WP_Posts_List_Table->column_default(Object(WP_Post), 'thumb')
+#5 /home/lenovo/projektai/wordpress/wp-admin/includes/class-wp-posts-list-table.php(1226): WP_List_Tabl in /home/lenovo/projektai/wordpress/wp-content/plugins/programita-examplee/programita-examplee.php on line 36
+
+2019-04-29T16:41:09+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function custom_product_list_column_content(), 1 passed in /home/lenovo/projektai/wordpress/wp-includes/class-wp-hook.php on line 288 and exactly 2 expected in /home/lenovo/projektai/wordpress/wp-content/plugins/programita-examplee/programita-examplee.php:36
+Stack trace:
+#0 /home/lenovo/projektai/wordpress/wp-includes/class-wp-hook.php(288): custom_product_list_column_content('thumb')
+#1 /home/lenovo/projektai/wordpress/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#2 /home/lenovo/projektai/wordpress/wp-includes/plugin.php(465): WP_Hook->do_action(Array)
+#3 /home/lenovo/projektai/wordpress/wp-admin/includes/class-wp-posts-list-table.php(1193): do_action('manage_product_...', 'thumb', 108)
+#4 /home/lenovo/projektai/wordpress/wp-admin/includes/class-wp-list-table.php(1332): WP_Posts_List_Table->column_default(Object(WP_Post), 'thumb')
+#5 /home/lenovo/projektai/wordpress/wp-admin/includes/class-wp-posts-list-table.php(1226): WP_List_Tabl in /home/lenovo/projektai/wordpress/wp-content/plugins/programita-examplee/programita-examplee.php on line 36
+
