@@ -403,7 +403,7 @@ a:hover {
 /* 4.0 Body Structure
 ================================================== */
 #page {
-	background-color: #F3F4F8;
+	/*background-color: #F3F4F8;*/
 	width: 100%;
 }
 
@@ -1201,7 +1201,7 @@ img#wpstats {
 
 /* ----- Top Header Bar ----- */
 .header-wrap {
-	background-color: #fff;
+	/*background-color: #fff;*/
 	position: relative;
 	display: block;
 	clear: both;
@@ -4733,7 +4733,7 @@ div.bbp-template-notice, div.indicator-hint {
 .woocommerce ul.products li.product, .woocommerce-page ul.products li.product {
 	overflow: hidden;
 	text-align: center;
-	background-color: #fff;
+	/*background-color: #fff;*/
 	padding-bottom: 20px;
 }
 
